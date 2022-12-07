@@ -1,0 +1,30 @@
+body {
+    background-color: #000000 ;
+    color: #FF0000 ;
+}
+hr {
+    border-style: solid none none ;
+    border-color: #3D0000 ;
+    border-width: 2px ;
+}
+h1 {
+    color: #39FF14 ;
+}
+h3 {
+    color: #39FF14 ;
+}
+input[type=text] {
+    background-color: #000000 ;
+    color: #FF0000;
+}
+textarea {
+    background-color: #000000 ;
+    color: #FF0000;
+}
+input[type=submit] {
+    background-color: #FF0000;
+    color: #000000;
+}
+a {
+    color: #3A00F9;
+}
